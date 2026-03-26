@@ -1,16 +1,30 @@
-## Hi there 👋
+# Aryan Arya
 
-<!--
-**Aryn-xy/Aryn-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Biophysics | B.Sc. (Hons.) Bioinformatics
+Computational Neuroscience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Overview
+
+Interested in modeling brain dynamics using mathematical and computational approaches, with emphasis on neural systems as dynamical processes.
+
+---
+
+## ⚙️ Current Work
+
+Developing biologically-inspired spiking neural network models using Brian2, focusing on:
+
+* Dopamine-gated synaptic plasticity (STDP)
+* Emotion-modulated learning
+* Activity-dependent neural dynamics
+
+---
+
+## 🔬 Focus Areas
+
+* Attractor dynamics and stability in neural systems
+* Synaptic plasticity and learning mechanisms
+* Spiking neural networks and temporal coding
+
+---
