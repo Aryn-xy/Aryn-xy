@@ -1,6 +1,6 @@
 # Aryan Arya
 
-M.Sc. Biophysics | B.Sc. (Hons.) Bioinformatics␠␠
+M.Sc. Biophysics | B.Sc. (Hons.) Bioinformatics  
 Computational Neuroscience
 
 ---
