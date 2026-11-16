@@ -13,7 +13,7 @@ Interested in modeling brain dynamics using mathematical and computational appro
 
 ## ⚙️ Current Work
 
-Developing biologically-inspired spiking neural network models using Brian2, focusing on:
+Developing biologically-inspired spiking neural network models using Brian2 & NEURON 9.0.2 focusing on:
 
 * Dopamine-gated synaptic plasticity (STDP)
 * Emotion-modulated learning
