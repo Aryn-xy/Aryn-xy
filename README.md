@@ -17,7 +17,7 @@ Developing computational models of neuronal and network dynamics using **Brian2,
 
 * Dopamine-modulated STDP
 * Markov-state modeling of voltage-gated ion channels
-* Spatial coding and Topological data analysis (TDA) of neural population dynamics
+* Spatial coding and topological data analysis (TDA) of neural population dynamics
 * Low-dimensional manifold representations and geometric organization of neural state spaces
 * Activity-dependent neural dynamics
 
